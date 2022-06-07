@@ -23,7 +23,7 @@ public class AdoteUmPetApplication implements CommandLineRunner {
 		var pet = new Pet();
 		pet.setNome("Cristal");
 		pet.setHistoria("Fofo");
-		pet.setFoto("http://www.example.com.br/foto.pgn");
+		pet.setFoto("https://wl-incrivel.cf.tsp.li/resize/728x/jpg/f4e/43b/69a8a856e89a899cdad228af45.jpg");
 		petRepository.save(pet);
 	}
 

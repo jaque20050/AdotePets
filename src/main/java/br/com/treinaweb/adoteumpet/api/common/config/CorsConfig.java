@@ -1,4 +1,4 @@
-package br.com.treinaweb.adoteumpet.api.commo.config;
+package br.com.treinaweb.adoteumpet.api.common.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.CorsRegistry;
